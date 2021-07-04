@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+/*===================*/
+/*=====BASIC SETUP===*/
+/*===================*/
+/* * {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+ul lI {
+	list-style-type: none;
+}
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	text-rendering: optimizeLegibility;
+	line-height: 1.3;
+	font-size: 1.6rem;
+	scroll-behavior: smooth;
+
+}
+
+html {
+	font-size: 62.5%;
+	scroll-behavior: smooth;
+
+
+} */
+
+
+h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    width: 100%;
+    color:#442df1b6
+}
+
+.header-section {
+    background-image: url(/img/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+}
+
+
+.container .width-half {
+    width: 50%;
+    
+
+}
+.left-area {
+   padding-left: 5%;
+}
+.right-area {
+    text-align: center;
+}
+
+.right-area img {
+    width: 70%;
+    padding-top: 10px;
+}
+
+
+
+.left-area a {
+   background: #FF3D82;/* linear-gradient(rgb(175, 123, 28),tomato); */
+    padding: 10px 30px;
+    border-radius: 5px;
+    display: block;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: white;
+    
+}
+.left-area .link {
+    text-align: center;
+}
