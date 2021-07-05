@@ -46,7 +46,7 @@ headerSection.addEventListener("click", function () {
 
 
     if (num === 1) {
-        var audio = new Audio("/valobasbore.mp3");
+        var audio = new Audio("valobasbore.mp3");
         audio.play();
     } else if (num === 4) {
         alert("Oi beta koto bar click koros")
